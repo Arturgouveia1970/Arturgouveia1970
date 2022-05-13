@@ -27,7 +27,6 @@
 ---
 
 ### :man_technologist: About Me :
- 
 - 👋 I’m Artur Gouveia 
 - 👀 I’m Full stack software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Angola.
  
@@ -35,7 +34,6 @@
 - 💞️ I’m looking for new opportunities ...
 - ⚡In my free time, I like reading, sports and music.
 - 📫 you can reach me on artgouveiag@gmail.com...
-
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
