@@ -18,7 +18,7 @@
  <img src="https://komarev.com/ghpvc/?username=Arturgouveia1970&style=flat-square&color=blue"  alt=""/>
   </div>
  <h1 align="center">
-  hey there
+  hey there, I am Artur Gouveia
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
@@ -27,7 +27,6 @@
 ---
 
 ### :man_technologist: About Me :
-- 👋 I’m Artur Gouveia 
 - 👀 I’m Full stack software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Angola.
  
 
