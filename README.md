@@ -36,7 +36,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fcplusplus_line_logo_icon_146582.png&f=1&nofb=1&ipt=71866334a783d91e060a003c5f913691aeb7e4c5dd935c7e6e6df721bafbcda2&ipo=images" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
