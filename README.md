@@ -37,7 +37,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fcplusplus_plain_logo_icon_146580.png&f=1&nofb=1&ipt=21997478171dbd997e1c291e963cd0396830c74592b1cd608c69548c066a3113&ipo=images" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fcplusplus_plain_logo_icon_146580.png&f=1&nofb=1&ipt=21997478171dbd997e1c291e963cd0396830c74592b1cd608c69548c066a3113&ipo=images" title="React" alt="React" width="40" height="40"/>&nbsp;" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fcsharp_original_logo_icon_146578.png&f=1&nofb=1&ipt=442fbc3e5fcf8352da1e192813dd80e2d75945a1943388c99c4c2bf2c4df4b96&ipo=images" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
