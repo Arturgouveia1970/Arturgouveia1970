@@ -27,7 +27,7 @@
 ---
 
 ### :man_technologist: About Me :
-- 👀 I’m Full stack software developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Angola.
+- 👀 I’m Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Angola.
  
 
 - 💞️ I’m looking for new job opportunities ...
