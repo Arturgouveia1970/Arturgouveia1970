@@ -36,20 +36,23 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fcplusplus_plain_logo_icon_146580.png&f=1&nofb=1&ipt=21997478171dbd997e1c291e963cd0396830c74592b1cd608c69548c066a3113&ipo=images" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fcsharp_original_logo_icon_146578.png&f=1&nofb=1&ipt=442fbc3e5fcf8352da1e192813dd80e2d75945a1943388c99c4c2bf2c4df4b96&ipo=images" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fcplusplus_plain_logo_icon_146580.png&f=1&nofb=1&ipt=21997478171dbd997e1c291e963cd0396830c74592b1cd608c69548c066a3113&ipo=images" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fbootstrap_plain_logo_icon_146619.png&f=1&nofb=1&ipt=b63569269fdbd730bd5f13665128363223df5051ee79dee1cc3ec27409027083&ipo=images"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2415%2FPNG%2F512%2Fbootstrap_plain_logo_icon_146619.png&f=1&nofb=1&ipt=b63569269fdbd730bd5f13665128363223df5051ee79dee1cc3ec27409027083&ipo=images"  title="Bootstrap" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-dark.svg" title="tailwind" alt="tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="Postgresql" **alt="Git" width="40" height="40"/>
+   <img src="https://github.com/mongodb-js/leaf/raw/master/dist/mongodb-leaf_32x32.png" title="MongoDB" **alt="MongoDB" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0bgBGor5B12ChyrWp-Ic7TzN3uOD9eIS6w&usqp=CAU" title="Express JS" alt="expressJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg" title="Ruby" **alt="Git" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/44202977?s=280&v=4" title="Git" **alt="Ruby on Rails" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/44202977?s=280&v=4" title="Ruby in Rails" **alt="Ruby on Rails" width="40" height="40"/>
   
 </div>
 ---
