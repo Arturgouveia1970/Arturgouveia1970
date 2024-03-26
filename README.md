@@ -50,6 +50,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0bgBGor5B12ChyrWp-Ic7TzN3uOD9eIS6w&usqp=CAU" title="Express JS" alt="expressJS" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThW7-yB0ymTAUzJiEezeSoZZr405q7e3Yq_jPQ99OKH-jHMfQ0TXi7&usqp=CAE&s" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg" title="Ruby" **alt="Ruby" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/44202977?s=280&v=4" title="Ruby in Rails" **alt="Ruby on Rails" width="40" height="40"/>
